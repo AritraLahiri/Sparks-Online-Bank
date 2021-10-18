@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/title_home" />
+    <item
+        android:id="@+id/people"
+        android:icon="@drawable/people"
+        android:title="@string/title_People" />
+    <item
+        android:id="@+id/history"
+        android:icon="@drawable/history"
+        android:title="@string/title_history" />
+    <item
+        android:id="@+id/transfer"
+        android:icon="@drawable/transfer"
+        android:title="@string/title_transfer" />
+
+</menu>
